@@ -47,7 +47,7 @@
 ### **Setup & Installation**  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/mayurdmali/BookMyResort.git
+   https://github.com/mayurdmali/BookMyResort.git
    ```
 2. Configure **application.properties** for MySQL connection.  
 3. Build & Run the application:  
